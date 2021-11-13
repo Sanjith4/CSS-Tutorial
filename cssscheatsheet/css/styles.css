@@ -39,3 +39,10 @@ body {
 	padding: 10px;
 }
 
+.categories {
+	border: 1px #ccc solid;
+	padding: 10px;
+	border-radius:15px ;
+	margin: 10px;
+}
+
